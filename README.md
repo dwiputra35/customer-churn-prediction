@@ -3,7 +3,7 @@ The company is facing challenges in minimizing customer churn risk for the produ
 
 The main objective of this project is to develop an accurate churn prediction model based on historical customer data, to assist the company in identifying potentially churn-prone customers and taking proactive measures to retain them and improve overall customer retention.
 
-This model achieved an 94% recall score for classifying the 'churn' class.
+This model achieved an 93% recall score for classifying the 'churn' class.
 
 # Deployment
 https://huggingface.co/spaces/dwiputra3500/Churn-Prediction
